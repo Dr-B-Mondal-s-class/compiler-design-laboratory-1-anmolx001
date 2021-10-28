@@ -3,7 +3,7 @@
 | Sr. No. | Description | Date | Source Code | Output |
 | :--: | :---- | :--: | :--: | :--: |
 | 1. | WAP to recognize float and int data type. |  27/08/2021  | [Link](./recognize_float_int/recognize_float_int.l)  | [Link](./recognize_float_int/Output.PNG
-| 2. | WAP to verify a valid identifier. |  27/08/2021  | [Link](./verify_identifier/verify_identifier.l)  | [Link](./verify_identifier/Otput.PNG)
+| 2. | WAP to verify a valid identifier. |  27/08/2021  | [Link](./verify_identifier/verify_identifier.l)  | [Link](./verify_identifier/Output.PNG)
 | 3. | WAP to verify a valid keyword. |  27/08/2021  | [Link](./verify_keyword/verify_keyword.l)  | [Link](./verify_keyword/Output.PNG)
 | 4. | WAP to recognize basic operators (`PLUS(+), MINUS(-), GE(>=), LE(<=)`). |  27/08/2021  | [Link](./recognize_basic_operators/recognize_basic_operators.l)  | [Link](./recognize_basic_operators/Output.PNG)
 | 5. | WAP to determine input operators whether arithmetic or logical. |  27/08/2021  | [Link](./arithmetic_logical_operators/arithmetic_logical_operators.l)  | [Link](./arithmetic_logical_operators/Output.PNG)
